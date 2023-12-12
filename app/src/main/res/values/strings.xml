@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">UAS Mobile Dana</string>
+    <string name="judul">Video Title</string>
+    <string name="description">Video Description</string>
+    <string name="list_title">RecyclerView</string>
+
+    <string-array name="video_title">
+        <item>Nala</item>
+        <item>Remedi</item>
+        <item>Interaksi</item>
+        <item>Perempuan Yang Sedang Dalam Pelukan</item>
+        <item>Rehat</item>
+        <item>Beautiful Day</item>
+        <item>Blinded By Love</item>
+        <item>Kerinduan</item>
+        <item>My Everything</item>
+        <item>Mercusuar</item>
+        <item>Jealous</item>
+        <item>My Love</item>
+        <item>Leaving on a Jet Plane</item>
+        <item>Perahu Kertas</item>
+        <item>Photograph</item>
+    </string-array>
+
+    <string-array name="video_description">
+        <item>
+            Lagu ini masuk ke dalam album bertajuk Manusia yang telah resmi dirilis pada, 25 Agustus 2022.
+            Adapun makna lagu Nala ini menceritakan tentang seseorang bernama Nala yang bernasib malang karena
+            kecewa akibat kencan bersama orang spesialnya namun berakhir gagal. Padahal pertemuan tersebut sangat
+            dirindukan oleh Nala. Namun harus berakhir dengan hati yang patah.
+        </item>
+        <item>
+            Dirilis pada (03/03), lagu yang berjudul Remedi ini dibawakan Tulus dengan sangat indah, mengajarkan
+            tentang bagaimana kedewasaan dalam suatu hubungan, mampu melepaskan seseorang yang dicintai untuk mengejar impiannya.
+            Remedi dapat diartikan dengan sederhana, yakni perbaikan. Ketika seseorang mendapatkan kesempatan kedua untuk
+            memperbaiki suatu hal, tentu seseorang tersebut tidak akan menyia-nyiakannya. Contoh sederhananya, di masa sekolah ada
+        </item>
+        <item>
+            Makna dari lagu Interaksi ini menceritakan tentang seseorang yang sedang jatuh hati, namun dia tidak ingin menaruh ekspektasi
+            terlalu tinggi terhadap orang yang dicintainya. Lagu ini sangat merepresentasikan perasaan seseorang yang tidak berencana jatuh hati, namun tiba-tiba jatuh hati dengan seseorang.
+            Tiba-tiba saja cinta itu muncul, dan di saat yang bersamaan hati dan logika tahu persis dengan jelas banyak yang tidak mungkin bisa disatukan.
+            Lagu ini sangat merepresentasikan perasaan seseorang yang tidak berencana jatuh hati, namun tiba-tiba jatuh hati dengan seseorang.
+            Tiba-tiba saja cinta itu muncul, dan di saat yang bersamaan hati dan logika tahu persis dengan jelas banyak yang tidak mungkin bisa disatukan.
+            namun dia tidak ingin menaruh ekspektasi terlalu tinggi terhadap orang yang dicintainya. Lagu ini sangat merepresentasikan perasaan seseorang yang tidak berencana jatuh hati, namun tiba-tiba jatuh hati dengan seseorang.
+            Tiba-tiba saja cinta itu muncul,
+        </item>
+        <item>
+            Lagu Untuk Perempuan yang Sedang Dalam Pelukan ditujukan kepada sesosok wanita yang sedang dicintai, akan tetapi kita tidak dapat memilikinya karena memang sudah tidak bisa.
+            Dalam lirik lagu Untuk Perempuan yang Sedang Dalam Pelukan terdapat makna yang dalam, menceritakan seorang pria yang sangat jatuh hati pada kekasihnya.
+            Dalam lirik lagu Untuk Perempuan yang Sedang Dalam Pelukan juga mengandung makna bahwa kebahagiaan bisa didapat hanya dengan melihat wajah orang yang dicintai.
+            ditujukan kepada sesosok wanita yang sedang dicintai, akan tetapi kita tidak dapat memilikinya karena memang sudah tidak bisa.
+
+        </item>
+        <item>
+            Salah satu lagu Kunto Aji yang memiliki makna dalam yaitu bertajuk "Rehat". Makna dibalik lagu "Rehat" mengingatkan untuk lebih peduli dengan diri sendiri. Lirik dalam lagu ini
+            sebenarnya berupa monolog sebagai pengingat diri. Kunto Aji mengajak pendengar untuk bisa memaknai kata rehat dengan lebih tepat.
+            Makna rehat bukan hanya selalu diartikan untuk berhenti.
+            Rehat bisa juga dimaknai saat kamu menyikapi suatu hal dari sudut pandang lainnya.
+            Lewat rehat, pikiran kamu akan lebih jernih dan hati lebih tenang dari sebelumnya.
+            Makna dibalik lagu "Rehat" mengingatkan untuk lebih peduli dengan diri sendiri. Lirik dalam lagu ini
+            sebenarnya berupa monolog sebagai pengingat diri. Kunto Aji mengajak pendengar untuk bisa memaknai kata rehat dengan lebih tepat.
+        </item>
+        <item>
+            Lirik lagu Beautiful Day cocok dijadikan motivasi bagi kamu yang sedang merasa tidak baik-baik saja. Maka dari itu, gak heran kalau Beautiful Day pernah menembus nominasi di ajang penghargaan bergengsi AMI Awards 2022.
+            Beautiful Day adalah single Coldiac yang dirilis pada 2021 silam. Punya lirik sederhana, Beautiful Day dibalut dengan musik city-pop khas Coldiac yang makin terdengar apik dan penuh semangat.
+            Maka dari itu, gak heran kalau Beautiful Day pernah menembus nominasi di ajang penghargaan bergengsi AMI Awards 2022.
+            Beautiful Day adalah single Coldiac yang dirilis pada 2021 silam.
+        </item>
+        <item>
+            Nama Lenka memang nggak sepopuler penyanyi solo cewek lain seperti Lady Gaga, Katty Perry, Taylor Swift, Rihanna, atau Beyonce. Meski begitu, kemunculan debut album self titlednya 2008 silam cukup menarik perhatian banyak penikmat musik. Paling nggak, lewat dua singelnya
+            The Show, dan Trouble Is a Friend, namanya jadi perbincangan banyak kalangan, dan kiprahnya diperhitungkan.
+            Karakter vokal yang manis, dibalut musik indie atau folk pop yang sederhana bisa jadi merupakan kekuatan penyanyi asal Australia yang bernama lengkap Lenka Kripac ini.
+            Tiga tahun berlalu, dan kali ini Lenka kembali muncul dengan album barunya, Two. Berisi 11 lagu, album ini memajukan Heart Skips a Beat, Roll with the Punches, dan Everything at Once sebagai singelnya.
+            Dari segi musik, nggak banyak perbedaan di album ini.
+        </item>
+        <item>
+            Lagu Kerinduan merupakan salah satu lagu yang dibawakan dan dipopulerkan oleh Payung Teduh yang sangat enak didengar baik saat bekerja, bersantai, atau pada saat berkumpul dengan keluarga tercinta.
+            Lagu Kerinduan adalah salah satu lagu Payung Teduh yang sangat populer dan banyak diminati oleh masyarakat Indonesia, khususnya kalangan anak muda. Dengan lirik yang penuh emosi serta alunan musik yang menggugah perasaan, lagu Kerinduan by Payung Teduh berhasil menarik
+            perhatian banyak orang dan menjadi salah satu lagu hits yang sulit dilupakan. Tidak hanya itu, lirik lagu Kerinduan by Payung Teduh yang ditulis dengan bahasa serta kata-kata sederhana namun penuh makna ini bagi banyak orang juga dapat menjadi hiburan yang berkesan.
+            Berkenaan dengan kepopuleran lagu tersebut, tidak sedikit tempat-tempat nongkrong anak muda yang memperdengarkan lagu Kerinduan by Payung Teduh ini.
+        </item>
+        <item>
+            Secara umum lagu ini nampaknya masih bertema seputar cerita perasaan sayang dan cinta. Namun secara khusus lagu ini memiliki latar belakang sebagai sebuah lagu yang didedikasikan untuk kakaeknya (Frank Anthony Grande) yang meninggal dunia pada usia 90 tahun (22 Juli 2014)
+            karena sebuah penyakit yang sudah dideritanya yaitu Kanker di saat mengikuti acara The Honeymoon Tour.
+            Grande sungguh mencintai kakeknya, dan lagu ini menjadikan ungkapan grande betapa sayangnya ia pada sang kakak dan mengibaratkan ia adalah segalanya,dan kini ia merasakan kehilangan yang begitu dalam.
+            Ia sebelumnya kurang mnyadari perasaan betapa sayangnya ia pada sang kakek. Dia sangat berarti baginya sebelum dia pergi. Ia bisa mengobrol, dia mengenanya, menangis begitu banyak air mata karena dia sangat
+            merindukannya sehingga Anda bahkan tidak bisa menjelaskannya dengan kata-kata.  Kakeknya yang segalanya baginya sekarang sudah tiada, dan barulah ia sungguh merasakannya saat ini.
+            Secara latar belakang, memang lagu ini dipersembahkan untuk kakaknya. Namun, secara umum sebagai lagu yang dinikmati oleh semua orang yang mendengarkannya, tentunya dapat diartikan dengan cara pandang yang berbeda,
+            dengan hanya menginterpretasikan liriknya secara pribadi.
+        </item>
+        <item>
+            Mercusuar ini adalah kiasan sebuah cahaya yang menuntun jalan kembali pulang. Di kehidupan nyata, mercusuar merupakan sebuah menara dengan sumber cahaya sebagai pengarah navigasi untuk kapal agar bisa kembali ke dramaga.
+            Begini makna dalam lirik lagu Kunto Aji yang berjudul “Mercusuar”, dimulai dari bagian awal:
+            Dari yang sudah sudah
+            Cinta hanyalah bualan
+            Dari yang sudah sudah
+            Hanya rasa tanpa tujuan
+            Seperti menjalani hubungan cinta yang berputar-putar. Mulai dari pendekatan, berpacaran, berantem hingga akhirnya putus. Entah sampai kapan siklus yang tidak jelas ini akan berakhir menjadi impian bagi semua pasangan yaitu
+            pernikahan. Kalau diibaratkan, sama seperti sebuah kapal yang terombang-ambing di tengah lautan, tidak jelas, tak terlihat pertanda, dan tak tahu ingin pergi ke mana.
+            Seperti menjalani hubungan cinta yang berputar-putar. Jika diibaratkan bagai sebuah kapal yang terlalu lama terombang-ambing di laut tidak jelas arahnya, pada akhirnya kapal tersebut ingin berlabuh pada sebuah dramaga untuk menetap dan beristirahat.
+        </item>
+        <item>
+            Arti lirik Jealous terjemahan lengkap dengan makna lirik Jealous yang dinyanyikan oleh Labrinth dalam single yang dirilis pada 23 November 2014. Lagu ini bisa kamu dengarkan di Spotify, JOOX, iTunes, Apple Music, ataupun app music
+            stream kesayanganmu. Makna lirik Jealous adalah membahas tentang ayah dari Labrinth yang pergi meninggalkan keluarga saat Labrinth berumur empat tahun. Namun lirik lagu ini juga bisa diartikan sebagai seseorang yang merasa cemburu
+            saat orang yang dicintainya bersama orang lain.  Makna lirik Jealous adalah membahas tentang ayah dari Labrinth yang pergi meninggalkan keluarga saat Labrinth berumur empat tahun. Namun lirik lagu ini juga bisa diartikan sebagai seseorang yang merasa cemburu
+            saat orang yang dicintainya bersama orang lain.
+        </item>
+        <item>
+            Lagu My Love Westlife rilis pada tahun 2000 silam dalam album Coast to Coast.
+            Arti lagu My Love tentang kesepian yang dirasakan seseorang tanpa adanya pasangan di sisinya.
+            Ia merindukan masa-masa indah saat bersama kekasihnya. Lagu My Love Westlife rilis pada tahun 2000 silam dalam album Coast to Coast.
+            Arti lagu My Love tentang kesepian yang dirasakan seseorang tanpa adanya pasangan di sisinya.
+            Ia merindukan masa-masa indah saat bersama kekasihnya.
+        </item>
+        <item>
+            Di sela waktu, seseorang itu ingin berpamitan dengan kekasihnya untuk memberi kabar terakhir. Namun, waktu tak mau berkompromi, taksi yang hendak mengantarnya mengisyaratkan untuk segera berangkat menuju bandara.
+            Di dalam bait lainnya, John Denver menulis tentang elegi waktu yang membuat pertemuan sekaligus perpisahan dan imajinasi akan hari-hari yang indah bersama kenangannya.
+            Di akhir kata, Oh, Babe, I Hate to Go menjadi penegasan bahwa John Denver sesungguhnya tak ingin pergi, tetapi waktu mengharuskan demikian.
+            Judul asli dari lagu Leaving On Jet a Plane sendiri sebenarnya Oh, Babe, I Hate to Go tetapi kemudian produsernya, Milt Okun, mengubah judul lagu tersebut.
+            Tak ada yang salah dalam lirik Leaving On Jet a Plane, bahkan jutaan orang menjadikan lagu ini sebagai teman perjalanan sampai kini.
+        </item>
+        <item>
+            Lirik lagu perahu kertas ini menceritakan tentang sepasang sahabat yang saling jatuh cinta, namun hanya bisa saling memendam satu sama lain, mungkin jika mengungkapkan malah bisa merusak hubungan persahabatan mereka yang selama ini sudah dibangun dengan sangat baik.
+            Lirik lagu perahu kertas ini menceritakan tentang sepasang sahabat yang saling jatuh cinta, namun hanya bisa saling memendam satu sama lain, mungkin jika mengungkapkan malah bisa merusak hubungan persahabatan mereka yang selama ini sudah dibangun dengan sangat baik.
+            Lirik lagu perahu kertas ini menceritakan tentang sepasang sahabat yang saling jatuh cinta, namun hanya bisa saling memendam satu sama lain, mungkin jika mengungkapkan malah bisa merusak hubungan persahabatan mereka yang selama ini sudah dibangun dengan sangat baik.
+            Lirik lagu perahu kertas ini menceritakan tentang sepasang sahabat yang saling jatuh cinta, namun hanya bisa saling memendam satu sama lain, mungkin jika mengungkapkan malah bisa merusak hubungan persahabatan mereka yang selama ini sudah dibangun dengan sangat baik.
+        </item>
+        <item>
+            Lirik lagu Photograph-Ed Sheeran dan terjemahan menceritakan tentang hubungan LDR sepasang kekasih yang menyimpan cinta mereka dalam sebuah foto. Kehadiran lagu ini seolah sebagai saksi bisu bawa cinta LDR terkadang sulit dilupakan.
+            Photograph adalah sebuah balada yang penuh emosi yang membahas tentang nostalgia dan kenangan. Lirik lagu ini menggambarkan rasa kerinduan dan keinginan untuk menyimpan momen-momen berharga melalui fotografi.
+            Lagu yang dinyanyikan Ed Sheeran ini dirilis dalam album X (Deluxe Edition) pada 2014. Kepopuleran lagu ini meraih beberapa penghargaan dan nominasi ternama yaitu Musik iHeartRadio untuk Lirik Terbaik dan BRIT Award untuk Best British Video. Tak dapat dipungkiri bahwa
+            setiap lagu yang dibawakan Ed Sheeran sangat epik dan easy listening.
+        </item>
+    </string-array>
+
+    <array name="video_id">
+        <item>@raw/nala</item>
+        <item>@raw/remedi</item>
+        <item>@raw/interaksi</item>
+        <item>@raw/untukperempuan</item>
+        <item>@raw/rehat</item>
+        <item>@raw/bday</item>
+        <item>@raw/blindedbylove</item>
+        <item>@raw/kerinduan</item>
+        <item>@raw/myeverything</item>
+        <item>@raw/mercusuar</item>
+        <item>@raw/jealous</item>
+        <item>@raw/mylove</item>
+        <item>@raw/leaving</item>
+        <item>@raw/perahukertas</item>
+        <item>@raw/photogrph</item>
+    </array>
+
+    <integer-array name="video_thumbnail">
+        <item>@drawable/nala</item>
+        <item>@drawable/remedi</item>
+        <item>@drawable/interaksi</item>
+        <item>@drawable/untukperempuan</item>
+        <item>@drawable/rehat</item>
+        <item>@drawable/coldiac</item>
+        <item>@drawable/blindedbylove</item>
+        <item>@drawable/kerinduan</item>
+        <item>@drawable/myeverything</item>
+        <item>@drawable/mercusuar</item>
+        <item>@drawable/jealous</item>
+        <item>@drawable/mylove</item>
+        <item>@drawable/leaving</item>
+        <item>@drawable/perahukertas</item>
+        <item>@drawable/photograph</item>
+    </integer-array>
+
+    <string-array name="data_sound">
+        <item>musik</item>
+        <item>musik</item>
+        <item>musik</item>
+        <item>musik</item>
+        <item>musik</item>
+        <item>musik</item>
+        <item>musik</item>
+        <item>musik</item>
+        <item>musik</item>
+        <item>musik</item>
+        <item>musik</item>
+        <item>musik</item>
+        <item>musik</item>
+        <item>musik</item>
+        <item>musik</item>
+    </string-array>
+</resources>
